@@ -1,0 +1,6 @@
+C:\Users\Denis\source\repos\МАССИВЫ\массивы в циклах\bin\Debug\массивы в циклах.exe.config
+C:\Users\Denis\source\repos\МАССИВЫ\массивы в циклах\bin\Debug\массивы в циклах.exe
+C:\Users\Denis\source\repos\МАССИВЫ\массивы в циклах\bin\Debug\массивы в циклах.pdb
+C:\Users\Denis\source\repos\МАССИВЫ\массивы в циклах\obj\Debug\массивы в циклах.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\МАССИВЫ\массивы в циклах\obj\Debug\массивы в циклах.exe
+C:\Users\Denis\source\repos\МАССИВЫ\массивы в циклах\obj\Debug\массивы в циклах.pdb
